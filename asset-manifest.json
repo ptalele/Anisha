@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Anisha/static/css/main.bee35c41.chunk.css",
+    "main.js": "/Anisha/static/js/main.7b005995.chunk.js",
+    "main.js.map": "/Anisha/static/js/main.7b005995.chunk.js.map",
+    "runtime~main.js": "/Anisha/static/js/runtime~main.28ce8f8f.js",
+    "runtime~main.js.map": "/Anisha/static/js/runtime~main.28ce8f8f.js.map",
+    "static/js/2.15f70701.chunk.js": "/Anisha/static/js/2.15f70701.chunk.js",
+    "static/js/2.15f70701.chunk.js.map": "/Anisha/static/js/2.15f70701.chunk.js.map",
+    "index.html": "/Anisha/index.html",
+    "precache-manifest.76a15f38f36a9b5f16a8ccdb270f58cb.js": "/Anisha/precache-manifest.76a15f38f36a9b5f16a8ccdb270f58cb.js",
+    "service-worker.js": "/Anisha/service-worker.js",
+    "static/css/main.bee35c41.chunk.css.map": "/Anisha/static/css/main.bee35c41.chunk.css.map",
+    "static/media/index.css": "/Anisha/static/media/bkg.2e3e5fef.jpg"
+  }
+}
